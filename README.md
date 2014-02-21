@@ -9,7 +9,7 @@ The OTL lookups in Nutso apply the same layout to both the OTL `<frac>` and `<af
 
 Some care needs to be taken when editing text employing nut fractions implemented as in Nutso: the fraction feature must only be applied to discreet runs of characters in the appropriate format, and tracking (letterspacing) functions must not be applied to the fractions.
 
-The initial release consists of the Nutso `.ttf` compiled font file and the `.vtp` Microsoft VOLT OTL source file. The latter is a plain text representation of the VOLT project, which can be imported and merged with the font file in the VOLT tool.
+The initial release consists of the Nutso `.ttf` compiled font file and the `.vtp` [Microsoft VOLT](http://www.microsoft.com/typography/volt.mspx) OTL source file. The latter is a plain text representation of the VOLT project, which can be imported and merged with the font file in the VOLT tool.
 
 #### Update, 21 February 2014
 

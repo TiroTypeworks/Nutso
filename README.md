@@ -11,4 +11,8 @@ Some care needs to be taken when editing text employing nut fractions implemente
 
 The initial release consists of the Nutso `.ttf` compiled font file and the `.vtp` Microsoft VOLT OTL source file. The latter is a plain text representation of the VOLT project, which can be imported and merged with the font file in the VOLT tool.
 
+#### Update, 21 February 2014
+
+[AFDKO .fea code](http://www.adobe.com/devnet/opentype/afdko/topic_feature_file_syntax.html) and a CFF OT font contributed by Miguel Sousa added. The .fea code provides a different tool path and can be utilised directly in AFDKO or in third party tools that make use of that library.
+
 — John Hudson

@@ -1,5 +1,17 @@
-Nutso
-=========
+# Nutso
+
+# Licensing
+
+[![Creative Commons Zero](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, John Hudson has waived all copyright and related or neighboring rights to Nutso.
+Nutso is available under the terms of "Creative Commons Zero" and full details are in [LICENSE.txt](LICENSE.txt)
+
+The files in the [third_party](third_party/) directory are a combination of Nutso and a subset of the Noto Serif fonts, provided as a _proof of concept_ working example.
+The version of Noto Serif used is licensed under the Apache License 2.0, so those example fonts are also licensed the same way. 
+They are kept in a separate directory to clarify this different licensing status, along with a copy of the Apache license itself.
+
+# Release Notes
 
 #### Nutso2 v1.03, 21 February 2014
 

@@ -1,6 +1,6 @@
 # Nutso
 
-**NOTE: test fonts are available in the [third_party](third_party/) folder.
+#### NOTE: test fonts are available in the [third_party](third_party/) folder.
 
 # Licensing
 

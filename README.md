@@ -1,5 +1,7 @@
 # Nutso
 
+**NOTE: test fonts are available in the [third_party](third_party/) folder.
+
 # Licensing
 
 [![Creative Commons Zero](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -35,4 +37,4 @@ Some care needs to be taken when editing text employing nut fractions implemente
 
 The initial release consists of the Nutso `.ttf` compiled font file and the `.vtp` [Microsoft VOLT](http://www.microsoft.com/typography/volt.mspx) OTL source file. The latter is a plain text representation of the VOLT project, which can be imported and merged with the font file in the VOLT tool.
 
-— John Hudson
+â€” John Hudson

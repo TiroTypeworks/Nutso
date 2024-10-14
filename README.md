@@ -19,7 +19,7 @@ They are kept in a separate directory to clarify this different licensing status
 
 Nutso2 is an alternative stacked fraction implementation that enables fractions with longer numerators than denominators. In this implementation, the fraction bars exist as independent, spacing glyphs of variant width, and both numerators and denominators are handled as mark glyphs. The numerators are contextually positioned relative to the invisible 'fracinit' glyph that marks the beginning of the fraction, as in Nutso, while the denominators are positioned relative to the bar. The length of bar used is dependent on the longer of the numerator or denominator string.
 
-NB. Tracking functions will still mess with the fraction alignment, albeit in a different way from how they mess with Nutso, and not be applied to text formatted as fractions.
+NB. Tracking functions will still mess with the fraction alignment, albeit in a different way from how they mess with Nutso, and should not be applied to text formatted as fractions.
 
 Thanks to Kent Lew for putting the idea for the Nutso2 implementation in my head.
 
